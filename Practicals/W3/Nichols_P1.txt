@@ -1,0 +1,49 @@
+# Week 1 Practical
+
+## Kaitlyn Nichols
+
+## Section 3.1
+
+### 1. Navigate to my home directory
+To navigate to my home directory, I typed:
+cd/Users/kaitlynnichols
+
+### 2. Navigate to a directory that contains work
+To navigate to a directory that contains work, I typed:
+cd /Users/kaitlynnichols/Movies
+
+### 3. Navigate to the DataFiles directory within Python
+I typed:
+cd /Users/kaitlynnichols/IntroBiolComp-2026/Python/DataFiles
+
+### 4. Navigate to sandbox within Unix
+I typed:
+cd /Users/kaitlynnichols/IntroBiolComp-2026/Unix/sandbox
+
+## Section 3.3
+
+### 1. Navigate to the DataFiles directory
+I typed:
+cd /Users/kaitlynnichols/IntroBiolComp-2026/Python/DataFiles
+
+### 2. Count the number of lines in BeeSpecies.txt
+I typed:
+wc -l BeeSpecies.txt
+
+There are 19509 lines.
+
+### 3. Count the number of words in CodonTable.tsv
+First, I typed:
+cd/Users/kaitlynnichols/IntroBiolComp-2026/Unix/DataFiles
+
+Then I typed:
+wc -w CodonTable.tsv
+
+There are 195 words.
+
+### 4. Display the last line of CodonTable.tsv
+I typed:
+tail -n 1 CodonTable.tsv
+
+The last codon is:
+TTT Phe F
