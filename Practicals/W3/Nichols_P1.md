@@ -2,6 +2,17 @@
 
 ## Kaitlyn Nichols
 
+>[!NOTE]
+> In the future, use back-ticks (i.e. \`) to put your code in code boxes. For example:
+>```bash
+>echo "Hello world"
+>```
+>Instead of:
+>
+>echo "Hello world"
+>
+>See the practical from Week 3 for more details (you can also look at the code of this file to see how I created the code box above :-)). 
+
 ## Section 3.1
 
 ### 1. Navigate to my home directory
