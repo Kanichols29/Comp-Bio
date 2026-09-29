@@ -30,7 +30,8 @@ My favorite activity: Traveling
 My favorite animal: Dog
 
 The first line of the script is a shebang that specifies Python 3. I created four variables to store my information. I then used the print() function to display the information stored in each variable.
-
+>[!NOTE]
+>This looks good. Remember to use code boxes for your code. 
 ## 6.2 Codon to Amino Acid
 
 In this problem, I used the CodonTable.tsv file to create a dictionary that matches each DNA codon to its amino acid symbol. I then split the given DNA sequence into individual codons, used the dictionary to translate each codon, and saved the amino acid symbols in a list.
