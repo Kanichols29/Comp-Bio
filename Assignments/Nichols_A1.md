@@ -257,3 +257,28 @@ python3 TwelveDays.py
 ```
 
 The script successfully printed all 12 verses of the song. Each verse included the correct gifts in the correct order, and the output matched the lyrics in `TwelveDaysOfChristmas.txt`.
+
+
+## Uploading Assignment 1 to GitHub
+
+I created a folder called `Assignments` in my personal GitHub repository, `Comp-Bio`. I copied my completed assignment files into this folder, including my Markdown answers, Python scripts, Bash script, data files, and word cloud images. I then used Git to add, commit, and push the files to GitHub.
+
+**Commands used:**
+
+```bash
+mkdir Assignments
+cp -R ~/IntroBiolComp-2026/IntroBiolComp-2026/Assignment1/. Assignments/
+git add Assignments
+git status
+git reset Assignments/.ipynb_checkpoints
+git commit -m "Add Assignment 1 files"
+git push
+```
+
+**Result:**
+
+My Assignment 1 files were successfully uploaded to the `Assignments` folder in my personal GitHub repository.
+
+**GitHub Repository:** https://github.com/Kanichols29/Comp-Bio
+
+**Assignment File:** https://github.com/Kanichols29/Comp-Bio/blob/main/Assignments/Nichols_A1.md
